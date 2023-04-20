@@ -1,0 +1,12 @@
+/*
+ * Empty Stylesheet file.
+ */
+.btn-login{
+    -fx-background-color: #113F67;
+    -fx-text-fill: rgb(255,255,255);
+    -fx-background-radius: 0.2em;
+    -fx-font-family: "Poppins";
+}
+.username, .password{
+    -fx-background-radius: 0.2em;
+}
