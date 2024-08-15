@@ -1,0 +1,16 @@
+/*
+ * Empty Stylesheet file.
+ */
+.links{
+    -fx-background-color: transparent;
+}
+.links:hover{
+    -fx-background-color: rgb(255,255,255);
+    -fx-text-fill: #113F67;
+}
+.mainFxmlClass {
+
+}
+.tabs{
+    -fx-font-size: 14px;
+}

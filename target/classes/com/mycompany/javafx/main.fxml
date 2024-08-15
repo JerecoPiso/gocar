@@ -27,7 +27,7 @@
             <Font size="14.0" />
          </font>
       </Label>
-      <Button fx:id="button" layoutX="380.0" layoutY="238.0" mnemonicParsing="false" onAction="#switchToPrimary" prefHeight="39.0" prefWidth="281.0" style="-fx-border-radius: 100;" styleClass="btn-login" stylesheets="@../../../styles/main.css" text="LOGIN">
+      <Button fx:id="button" layoutX="380.0" layoutY="238.0" mnemonicParsing="false" onAction="#login" prefHeight="39.0" prefWidth="281.0" style="-fx-border-radius: 100;" styleClass="btn-login" stylesheets="@../../../styles/main.css" text="LOGIN">
          <font>
             <Font name="System Bold" size="12.0" />
          </font></Button>
@@ -35,6 +35,11 @@
       <Label layoutX="423.0" layoutY="22.0" prefHeight="17.0" prefWidth="196.0" style="-fx-alignment: center;" text="GoCar." textAlignment="CENTER" textFill="#113f67">
          <font>
             <Font name="System Bold" size="38.0" />
+         </font>
+      </Label>
+      <Label layoutX="380.0" layoutY="289.0" onMouseClicked="#showRegisterForm" styleClass="register-link" stylesheets="@../../../styles/register.css" text="Don't have an account?">
+         <font>
+            <Font name="Calibri" size="16.0" />
          </font>
       </Label>
    </children>

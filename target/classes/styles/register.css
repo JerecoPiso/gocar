@@ -1,0 +1,15 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.login-link{
+    
+    -fx-text-fill: #113F67;
+    -fx-background-radius: 0.2em;
+  
+}
+.login-link:hover{
+
+    -fx-background-radius: 0.2em;
+  
+}
