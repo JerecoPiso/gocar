@@ -7,6 +7,15 @@
     -fx-background-radius: 0.2em;
     -fx-font-family: "Poppins";
 }
+.register-link{
+    -fx-text-fill: #113F67;
+    -fx-background-radius: 0.2em;
+}
+.register-link:hover{
+    -fx-background-radius: 0.2em;
+}
 .username, .password{
     -fx-background-radius: 0.2em;
 }
+
+

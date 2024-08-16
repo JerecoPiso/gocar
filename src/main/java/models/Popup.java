@@ -9,19 +9,12 @@ import javafx.scene.control.Alert;
  * @author Jereco
  */
 public class Popup {
-    private final Alert.AlertType alert;
-    private final String title, message;
-
-    public Popup(Alert.AlertType alert, String title, String message){
-        this.alert = alert;
-        this.title = title;
-        this.message = message;
-    }
+    public Popup(){}
     
-    public void Alert(){
-        Alert myalert = new Alert(this.alert);
-        myalert.setTitle(this.title);
-        myalert.setHeaderText(this.message);
+    public void Alert(Alert.AlertType alert, String title, String message){
+        Alert myalert = new Alert(alert);
+        myalert.setTitle(title);
+        myalert.setHeaderText(message);
         myalert.show();
     }
 }

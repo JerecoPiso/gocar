@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\Admin\Desktop\DesktopApp\java\gocar\src\main\java\com\mycompany\javafx\RenterController.java
 C:\Users\Admin\Desktop\DesktopApp\java\gocar\src\main\java\models\Popup.java
 C:\Users\Admin\Desktop\DesktopApp\java\gocar\src\main\java\models\DBConnection.java
@@ -6,3 +7,15 @@ C:\Users\Admin\Desktop\DesktopApp\java\gocar\src\main\java\com\mycompany\javafx\
 C:\Users\Admin\Desktop\DesktopApp\java\gocar\src\main\java\models\Users.java
 C:\Users\Admin\Desktop\DesktopApp\java\gocar\src\main\java\module-info.java
 C:\Users\Admin\Desktop\DesktopApp\java\gocar\src\main\java\com\mycompany\javafx\MainController.java
+=======
+C:\Users\Jereco\Documents\NetBeansProjects\javafx\src\main\java\models\Hasher.java
+C:\Users\Jereco\Documents\NetBeansProjects\javafx\src\main\java\module-info.java
+C:\Users\Jereco\Documents\NetBeansProjects\javafx\src\main\java\models\Users.java
+C:\Users\Jereco\Documents\NetBeansProjects\javafx\src\main\java\com\mycompany\javafx\App.java
+C:\Users\Jereco\Documents\NetBeansProjects\javafx\src\main\java\com\mycompany\javafx\MainController.java
+C:\Users\Jereco\Documents\NetBeansProjects\javafx\src\main\java\com\mycompany\javafx\RegisterController.java
+C:\Users\Jereco\Documents\NetBeansProjects\javafx\src\main\java\models\DBConnection.java
+C:\Users\Jereco\Documents\NetBeansProjects\javafx\src\main\java\com\mycompany\javafx\DashboardController.java
+C:\Users\Jereco\Documents\NetBeansProjects\javafx\src\main\java\com\mycompany\javafx\TabsController.java
+C:\Users\Jereco\Documents\NetBeansProjects\javafx\src\main\java\models\Popup.java
+>>>>>>> b2505880afa3c00ece8fb61df3a708df8b87afdf

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 models\DBConnection.class
 com\mycompany\javafx\MainController.class
 models\Hasher.class
@@ -6,3 +7,5 @@ models\Users.class
 models\Popup.class
 com\mycompany\javafx\App.class
 com\mycompany\javafx\RenterController.class
+=======
+>>>>>>> b2505880afa3c00ece8fb61df3a708df8b87afdf
