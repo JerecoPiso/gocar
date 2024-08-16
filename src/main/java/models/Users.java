@@ -39,7 +39,7 @@ public class Users extends DBConnection {
     public boolean Login(){
       
         try{
-            PreparedStatement stmt = Users.getConnection().prepareStatement("SELECT * FROM users WHERE username = ? AND PASSWORD = ?;");
+            PreparedStatement stmt = Users.getConnection().prepareStatement("SELECT * FROM users WHERE username = ? AND password = ?;");
             stmt.setString(1, this.username);
             stmt.setString(2, this.password);
             ResultSet res = stmt.executeQuery();

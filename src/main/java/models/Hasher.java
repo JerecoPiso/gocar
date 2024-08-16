@@ -21,8 +21,8 @@ public class Hasher {
         this.password = password;
     }
     public String getPassword(){
-//         String salt = BCrypt.gensalt();
-//        String hashedPassword = BCrypt.hashpw(password, salt);
-        return "xf";
+        String salt = BCrypt.gensalt();
+        String hashedPassword = BCrypt.hashpw(password, salt);
+        return hashedPassword;
     }
 }

@@ -1,2 +1,8 @@
+models\DBConnection.class
+com\mycompany\javafx\MainController.class
+models\Hasher.class
 module-info.class
+models\Users.class
+models\Popup.class
 com\mycompany\javafx\App.class
+com\mycompany\javafx\RenterController.class
